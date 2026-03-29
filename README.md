@@ -4,7 +4,7 @@
 
 Keeps a daily food journal in your vault with automatic calorie and macro totals.
 
-[![Support on Boosty](https://img.shields.io/badge/Support-Boosty-orange?style=flat)](https://boosty.to/paul2049)
+[![Support on Boosty](https://img.shields.io/badge/Support-Boosty-orange?style=flat)](https://boosty.to/paul2049/donate)
 
 ---
 
@@ -92,7 +92,7 @@ The plugin recalculates the Daily Total table automatically on save.
 
 If this plugin saves you time, consider buying me a coffee:
 
-[![Support on Boosty](https://boosty.to/app/assets/images/boosty-logo/with-text/orange-on-white.svg)](https://boosty.to/paul2049)
+[![Support on Boosty](https://img.shields.io/badge/Support%20on%20Boosty-%23f15f2c?style=for-the-badge)](https://boosty.to/paul2049/donate)
 
 ---
 
