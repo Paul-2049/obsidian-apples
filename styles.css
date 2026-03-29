@@ -1,0 +1,4 @@
+.apples-daily table tr:last-child td {
+    border-top: 3px double var(--table-border-color);
+    font-weight: bold;
+}
