@@ -129,14 +129,14 @@ module.exports = class ApplesNutritionPlugin extends Plugin {
         const folder = this.settings.journalFolder.replace(/\/$/, '');
         const monthNum = date.slice(5, 7);
         const monthFolder = `${folder}/${date.slice(0,4)}/${monthNum} ${MONTH_NAMES[parseInt(monthNum)-1]} ${date.slice(0,4)}`;
-        const filePath = `${monthFolder}/${date} Apples.md`;
+        const filePath = `${monthFolder}/${date} Apples!.md`;
         try {
             const existing = this.app.vault.getAbstractFileByPath(filePath);
-            if (existing) { new Notice(`Today's file already exists: ${date} Apples.md`); await this.app.workspace.openLinkText(filePath, '', false); return; }
+            if (existing) { new Notice(`Today's file already exists: ${date} Apples!.md`); await this.app.workspace.openLinkText(filePath, '', false); return; }
             await this.app.vault.createFolder(monthFolder).catch(() => {});
             await this.app.vault.create(filePath, dailyFileTemplate(date, this.settings.language));
             await this.app.workspace.openLinkText(filePath, '', false);
-            new Notice(`Created: ${date} Apples.md`);
+            new Notice(`Created: ${date} Apples!.md`);
         } catch(e) { new Notice(`Error creating file: ${e.message}`); }
     }
     async createProductCard(name) {

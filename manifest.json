@@ -1,7 +1,7 @@
 {
   "id": "apples-nutrition",
   "name": "Apples!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "0.15.0",
   "description": "Nutrition tracking with automatic daily totals, product cards, and optional Telegram/n8n integration",
   "author": "Paul-2049",
