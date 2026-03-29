@@ -1,4 +1,4 @@
-#🍏Apples!
+# 🍏 Apples!
 
 **Obsidian plugin for nutrition and calorie tracking.**
 
