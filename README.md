@@ -4,7 +4,7 @@
 
 Keeps a daily food journal in your vault with automatic calorie and macro totals.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/paul2049)
+[![Support on Boosty](https://img.shields.io/badge/Support-Boosty-orange?style=flat)](https://boosty.to/paul2049)
 
 ---
 
@@ -92,7 +92,7 @@ The plugin recalculates the Daily Total table automatically on save.
 
 If this plugin saves you time, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/paul2049)
+[![Support on Boosty](https://boosty.to/app/assets/images/boosty-logo/with-text/orange-on-white.svg)](https://boosty.to/paul2049)
 
 ---
 
